@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoroutineChooser.iml" filepath="$PROJECT_DIR$/CoroutineChooser.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coroutinechooser/coroutinechooser.iml" filepath="$PROJECT_DIR$/coroutinechooser/coroutinechooser.iml" />
     </modules>
   </component>
 </project>
