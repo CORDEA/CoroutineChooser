@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CoroutineChooser</string>
+    <string name="open_chooser">Open chooser</string>
 </resources>
